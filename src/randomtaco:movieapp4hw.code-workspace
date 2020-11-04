@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../codealongs/unit_3/react"
+		},
+		{
+			"path": "../../../../../codealongs/unit_3/intro2react"
+		},
+		{
+			"path": "../../../../../codealongs/unit_3/react/movieapp"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
